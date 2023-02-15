@@ -49,8 +49,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", he_update_silencer)
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", x_team_immortals_x)
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", None)
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
 
