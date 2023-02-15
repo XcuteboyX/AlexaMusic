@@ -2,9 +2,9 @@
 # Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Assad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
+# Kanged By © @ITS_CUTE_ANUJ
+# Rocks © @THE_UPDATE_SILENCER
+# Owner ANUJ SHING
 # Harshit Sharma
 # All rights reserved. © Alisha © Alexa © Yukki
 
@@ -49,8 +49,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", None)
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", https://t.me/the_update_silencer)
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", https://t.me/x_team_immortals_x)
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
 
